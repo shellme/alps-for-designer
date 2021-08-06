@@ -101,4 +101,7 @@ composer global exec asd -- -w ./sample.xml
 
 # デザインプロセスへの組込みアイデア
 
-{あとで書く}
+UX5段階モデルで例えると、「構造」の部分の手段として取り入れることができそうだが、具体的なやり方はこれから検討。
+
+![image](https://user-images.githubusercontent.com/18522005/128459717-ffeb2795-d436-4d1e-845b-c47742e3210c.png)
+
